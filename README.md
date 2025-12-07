@@ -2,6 +2,8 @@
 
 This repository contains a supervised machine learning project completed for **CSCA 5622 — Machine Learning** at the University of Colorado Boulder. The goal of this project is to build a predictive model capable of classifying an individual's **credit score category** based on mixed financial, behavioral, and demographic attributes.
 
+** Important note is that the Training and Test Data Set are too large to upload to GitHub, please use the link: https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data to access the data if you'd like to replicate the project. **
+
 ---
 
 ## 📌 Project Overview
